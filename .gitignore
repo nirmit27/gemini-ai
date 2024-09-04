@@ -2,5 +2,6 @@ gemini-env
 .env
 .idea
 __pycache__
-test.py
 sample.md
+test.py
+sample.png
