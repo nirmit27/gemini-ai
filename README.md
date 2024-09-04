@@ -79,4 +79,4 @@ cd gemini-ai
 
 ## Deployment link
 
-> [Check it out!]()
+> [Check it out!](https://gemini-ai-6pieo6evhzghyj5rgazsje.streamlit.app/)
