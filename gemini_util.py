@@ -1,9 +1,10 @@
 import os
+from streamlit import secrets
 
 from PIL import Image
 import google.generativeai as genai
 
-API_KEY = os.environ["API_KEY"]
+API_KEY = secrets["API_KEY"]
 genai.configure(api_key=API_KEY)
 
 

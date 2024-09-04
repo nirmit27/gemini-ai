@@ -69,7 +69,7 @@ cd gemini-ai
 - Text Embedding: Enter a piece of text in the "Embed text" section to get embeddings.
 - Ask Me Anything: Pose a question in the "Ask Me Anything" section to get an answer.
 
-## Requirements
+## [Requirements](requirements.txt)
 
 - Python 3.8+
 - Streamlit
@@ -77,10 +77,6 @@ cd gemini-ai
 - Google Generative AI SDK
 - streamlit-option-menu
 
-## Acknowledgments
+## Deployment link
 
-**Google Generative AI**: For providing the powerful models that power the Gemini AI application.
-
-## License
-
-This project is licensed under the **MIT License**. See the LICENSE file for details.
+> [Check it out!]()
