@@ -1,6 +1,6 @@
 # Gemini AI
 
-Gemini AI is an advanced AI-powered web application that provides a suite of services, including a chatbot, image captioning, text embedding, and a Q&A feature. The application is built using **[Streamlit](https://docs.streamlit.io/)**, leveraging the Gemini Pro model from Google’s generative AI capabilities.
+Gemini AI is an advanced AI-powered web application that provides a suite of services, including a chatbot, image captioning, text embedding, and a Q&A feature. The application is built using **[Streamlit](https://docs.streamlit.io/)**, leveraging the **Gemini Pro** model from Google’s generative AI capabilities.
 
 ## Features
 
