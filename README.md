@@ -59,7 +59,7 @@ cd gemini-ai
 - Start the Streamlit app.
 
   ```bash
-  streamlit run app.py
+  streamlit run main.py
   ```
 
 ## Usage
@@ -79,4 +79,4 @@ cd gemini-ai
 
 ## Deployment link
 
-> [Check it out!](https://gemini-ai-6pieo6evhzghyj5rgazsje.streamlit.app/)
+> [Check it out.](https://gemini-ai-6pieo6evhzghyj5rgazsje.streamlit.app/)
