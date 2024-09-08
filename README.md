@@ -69,13 +69,15 @@ cd gemini-ai
 - Text Embedding: Enter a piece of text in the "Embed text" section to get embeddings.
 - Ask Me Anything: Pose a question in the "Ask Me Anything" section to get an answer.
 
-## [Requirements](requirements.txt)
+## Requirements
 
 - Python 3.8+
 - Streamlit
 - Pillow
 - Google Generative AI SDK
 - streamlit-option-menu
+
+Check out [requirements.txt](requirements.txt) for more details.
 
 ## Deployment link
 
