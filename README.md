@@ -88,4 +88,3 @@ Check out [requirements.txt](requirements.txt) for more details.
 
 This project is licensed under the [MIT](https://opensource.org/license/mit/) License. Check the [LICENSE](LICENSE) file for more details.
 
-#### © Nirmit Mishra, 2024
