@@ -55,7 +55,7 @@ if selected == options[0]:
     if user_prompt:
         st.chat_message("user").markdown(user_prompt)
 
-        _, c2, _ = st.columns((3, 4, 1))
+        _, c2, _ = st.columns((3, 2, 1))
 
         with c2:
             with st.spinner('Generating response ...'):
@@ -128,7 +128,6 @@ if selected == options[-1]:
         _, col, _ = st.columns((2, 1, 2))
 
         with col:
-            lb()
             with st.spinner("Thinking ..."):
                 result = llm_response(input_text)
 
