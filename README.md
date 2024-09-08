@@ -84,6 +84,8 @@ Check out [requirements.txt](requirements.txt) for more details.
 > [Check it out!](https://gemini-ai-6pieo6evhzghyj5rgazsje.streamlit.app/)
 
 
-## LICENSE
+## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT](https://opensource.org/license/mit/) License. Check the [LICENSE](LICENSE) file for more details.
+
+#### © Nirmit Mishra, 2024
