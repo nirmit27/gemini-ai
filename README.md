@@ -84,6 +84,6 @@ Check out [requirements.txt](requirements.txt) for more details.
 > [Check it out!](https://gemini-ai-6pieo6evhzghyj5rgazsje.streamlit.app/)
 
 
-## License
+## LICENSE
 
 This project is licensed under the [MIT License](LICENSE).
