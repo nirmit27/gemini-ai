@@ -80,3 +80,8 @@ cd gemini-ai
 ## Deployment link
 
 > [Check it out!](https://gemini-ai-6pieo6evhzghyj5rgazsje.streamlit.app/)
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
