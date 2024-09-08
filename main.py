@@ -82,17 +82,17 @@ if selected == options[1]:
             col1, col2 = st.columns(2, gap="medium")
 
             with col1:
-                image.thumbnail((600, 400))
-
-                st.text("Image")
-                st.image(image)
-
-            with col2:
                 with st.spinner('Generating response ...'):
                     caption = img_caption(image)
 
                 st.text("Caption")
                 st.info(caption)
+
+            with col2:
+                image.thumbnail((600, 400))
+
+                st.text("Image")
+                st.image(image)
 
 
 # Text embedding page
