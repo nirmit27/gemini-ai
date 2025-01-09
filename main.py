@@ -101,7 +101,7 @@ if selected == options[2]:
     page_header("🔡 Text Embedding", color="lightgreen")
 
     input_text: str = st.text_area(
-        label="Enter the text to generate the embeddings.", placeholder="e.g. Who killed Hannibal?")
+        label="Enter the text to generate the embeddings.", placeholder="e.g. What's your ask?")
 
     if st.button("Get Embeddings"):
         _, col, _ = st.columns((2, 2, 2))
