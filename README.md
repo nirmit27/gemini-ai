@@ -81,7 +81,7 @@ Check out [requirements.txt](requirements.txt) for more details.
 
 ## Deployment link
 
-> [Check it out!](https://gemini-ai-6pieo6evhzghyj5rgazsje.streamlit.app/)
+#### [Check it out!](https://gemini-ai-6pieo6evhzghyj5rgazsje.streamlit.app/)
 
 
 ## License
